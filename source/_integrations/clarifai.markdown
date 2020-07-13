@@ -35,7 +35,6 @@ clarifai:
 {% configuration %}
 access_token:
   description: The Personal Access Token used to access your Clarifai applications.
-  example: 84a83d6a6ba241f5905a8971ea55cf48
   required: true
   type: string
 {% endconfiguration %}
